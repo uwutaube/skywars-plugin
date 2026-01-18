@@ -1,0 +1,15 @@
+{
+  "Group": "Example",
+  "Name": "Hello",
+  "Version": "1.0.0",
+  "Description": "Minimal example plugin",
+  "Authors": [
+    {
+      "Name": "jamo"
+    }
+  ],
+  "Website": "https://example.invalid/",
+  "Main": "com.jamo.hello.HelloPlugin",
+  "ServerVersion": "*"
+}
+
